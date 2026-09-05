@@ -24,8 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biniambeza&show_icons=true&locale=en" alt="biniambeza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biniambeza&" alt="biniambeza" /></p>
-## Hi there 👋
-
 <!--
 **biniambeza/biniambeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
