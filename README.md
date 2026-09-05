@@ -3,7 +3,7 @@
 
   ---
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="./github-snake.svg" alt="snake"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biniambeza&label=Profile%20views&color=0e75b6&style=flat" alt="biniambeza" /> </p>
