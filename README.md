@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Biniam Beza</h1>
 <h3 align="center">A passionate full-stack and mobile developer from Ethiopia</h3>
 
+  ---
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biniambeza&label=Profile%20views&color=0e75b6&style=flat" alt="biniambeza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biniambeza" alt="biniambeza" /></a> </p>
