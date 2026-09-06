@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biniam Beza</h1>
 <h3 align="center">A passionate full-stack and mobile developer from Ethiopia</h3>
-
   ---
 <p align="center">
  <img width="1000" src="./github-snake.svg" alt="snake"/>
