@@ -18,22 +18,11 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-name: Biniam Beza
-role: Full-Stack & Mobile Developer
-location: Ethiopia 🇪🇹
-focus: Web & Mobile Applications
-portfolio: https://biniambeza.vercel.app/
-contact: biniambeza544@gmail.com
-fun_fact: "I turn ☕ into 💻"
-```
-
 - 🔭 I'm currently building projects with **React, Next.js, Node.js & Flutter**
 - 🌱 I'm always exploring new tools and frameworks to level up my craft
 - 👨‍💻 All of my projects are showcased at **[biniambeza.vercel.app](https://biniambeza.vercel.app/)**
 - 💬 Ask me about **JavaScript, TypeScript, React, Flutter, or Node.js**
 - 📫 Reach me at **biniambeza544@gmail.com**
-- ⚡ Fun fact: I love clean UI just as much as clean code
 
 ---
 
