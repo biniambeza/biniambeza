@@ -86,10 +86,6 @@ fun_fact: "I turn ☕ into 💻"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniambeza&theme=tokyonight" alt="biniambeza streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biniambeza&theme=tokyo-night" alt="biniambeza activity graph" />
-</p>
-
 ---
 
 <p align="center">
