@@ -92,14 +92,6 @@ fun_fact: "I turn ☕ into 💻"
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biniambeza&theme=tokyonight&no-frame=true&row=1&column=7" alt="biniambeza trophies" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="100%">
 </p>
