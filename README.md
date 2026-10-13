@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+MERN+Developer;Odoo+ERP+Solutions+Consultant;Computer+Engineering+Graduate;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Flutter;Turning+ideas+into+production-ready+products!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+MERN+Developer;Odoo+ERP+Solutions+Consultant;Computer+Engineering+Graduate;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+production-ready+products!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ### 🧑‍💻 About Me
 
-**Computer Engineering graduate** with a strong passion for building robust, scalable web and mobile applications. I specialize in frontend engineering with **React, Next.js, and Tailwind CSS**, and backend architectures with **Node.js, Express, PostgreSQL, and MongoDB**. 
+**Computer Engineering graduate** with a strong passion for building robust, scalable web applications. I specialize in frontend engineering with **React, Next.js, and Tailwind CSS**, and backend architectures with **Node.js, Express, PostgreSQL, and MongoDB**. 
 
 Experienced in taking software products from initial concept to deployment — across intuitive UI design, resilient backend architecture, real-time communication, and secure third-party integrations (payments, cloud storage, and AI).
 
@@ -34,7 +34,7 @@ Experienced in taking software products from initial concept to deployment — a
 - 💼 **Focus Areas:** Full-Stack Web Development, Odoo ERP Customization & Module Architecture, Distributed Backend Systems
 - 🏆 **Honors:** 1st Place — **Best Project of the Year Award** (June 2026) for *BahirLink*
 - 🌐 **Portfolio:** [biniambeza.vercel.app](https://biniambeza.vercel.app/)
-- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, Odoo ERP & Flutter
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL & Odoo ERP
 - 📫 **Contact:** [biniambeza544@gmail.com](mailto:biniambeza544@gmail.com) • +251 99 383 5149
 
 ---
@@ -46,12 +46,12 @@ Experienced in taking software products from initial concept to deployment — a
     <td width="50%" valign="top">
       <h3 align="center">🏆 BahirLink</h3>
       <p align="center"><em>Unified Emergency & Public Service System (Award Winner)</em></p>
-      <p>A mission-critical civic platform connecting citizens directly with emergency and public service providers. Led system architecture, database design, and real-time multi-platform integration across web and mobile.</p>
+      <p>A mission-critical civic platform connecting citizens directly with emergency and public service providers. Led system architecture, database design, and real-time service integration.</p>
       <ul>
         <li>🥇 <strong>Best Project of the Year Award (June 2026)</strong> — 1st place among final-year university projects.</li>
         <li>Real-time alerting and media streaming using WebSockets & WebRTC.</li>
       </ul>
-      <p><strong>Tech Stack:</strong> <code>React.js</code>, <code>Tailwind CSS</code>, <code>Flutter</code>, <code>Node.js</code>, <code>Express.js</code>, <code>PostgreSQL</code>, <code>WebSocket</code>, <code>WebRTC</code></p>
+      <p><strong>Tech Stack:</strong> <code>React.js</code>, <code>Tailwind CSS</code>, <code>Node.js</code>, <code>Express.js</code>, <code>PostgreSQL</code>, <code>WebSocket</code>, <code>WebRTC</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚚 SmartDeliver</h3>
@@ -120,8 +120,7 @@ Experienced in taking software products from initial concept to deployment — a
 </p>
 
 <p align="left">
-  <b>Mobile & ERP:</b><br/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <b>ERP & Business Solutions:</b><br/>
   <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP" />
 </p>
 
@@ -138,6 +137,7 @@ Experienced in taking software products from initial concept to deployment — a
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
