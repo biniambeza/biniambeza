@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Biniam Beza 👋</h1>
-<h3 align="center">🚀 Full Stack Engineer | MERN Developer | ERP Solutions Consultant</h3>
+<h3 align="center">🚀 Full Stack Engineer | MERN Developer | Odoo ERP Consultant</h3>
 <p align="center">📍 Addis Ababa, Ethiopia 🇪🇹</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+MERN+Developer;Odoo+ERP+Solutions+Consultant;Computer+Engineering+Graduate;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+production-ready+products!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://biniambeza.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -10,88 +14,45 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+MERN+Developer;Odoo+ERP+Solutions+Consultant;Computer+Engineering+Graduate;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+production-ready+products!" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img width="850" src="./github-snake.svg" alt="snake"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biniambeza&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="biniambeza profile views" />
-  <img src="https://img.shields.io/github/followers/biniambeza?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### ⚡ Quick Bio
 
-**Computer Engineering graduate** with a strong passion for building robust, scalable web applications. I specialize in frontend engineering with **React, Next.js, and Tailwind CSS**, and backend architectures with **Node.js, Express, PostgreSQL, and MongoDB**. 
+Computer Engineering graduate passionate about turning ideas into scalable, high-performance web applications and ERP solutions. Specialized in **React / Next.js** on the frontend, **Node.js / PostgreSQL / MongoDB** on the backend, and **Odoo ERP** workflows.
 
-Experienced in taking software products from initial concept to deployment — across intuitive UI design, resilient backend architecture, real-time communication, and secure third-party integrations (payments, cloud storage, and AI).
-
-- 🎓 **Education:** B.Sc. in Computer Engineering — Bahir Dar Institute of Technology, Bahir Dar University (2022 – 2026)
-- 💼 **Focus Areas:** Full-Stack Web Development, Odoo ERP Customization & Module Architecture, Distributed Backend Systems
-- 🏆 **Honors:** 1st Place — **Best Project of the Year Award** (June 2026) for *BahirLink*
-- 🌐 **Portfolio:** [biniambeza.vercel.app](https://biniambeza.vercel.app/)
-- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL & Odoo ERP
-- 📫 **Contact:** [biniambeza544@gmail.com](mailto:biniambeza544@gmail.com) • +251 99 383 5149
+- 🎓 **Education:** B.Sc. Computer Engineering — Bahir Dar University (2022–2026)
+- 🏆 **Award:** 1st Place — **Best Project of the Year Award** (June 2026) for *BahirLink*
+- 💼 **Focus:** Full-stack architecture, real-time systems, and custom ERP development
+- 💬 **Ask me about:** React, Node.js, Express, PostgreSQL, MongoDB & Odoo ERP
+- 📫 **Direct:** [biniambeza544@gmail.com](mailto:biniambeza544@gmail.com) • +251 99 383 5149
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏆 BahirLink</h3>
-      <p align="center"><em>Unified Emergency & Public Service System (Award Winner)</em></p>
-      <p>A mission-critical civic platform connecting citizens directly with emergency and public service providers. Led system architecture, database design, and real-time service integration.</p>
-      <ul>
-        <li>🥇 <strong>Best Project of the Year Award (June 2026)</strong> — 1st place among final-year university projects.</li>
-        <li>Real-time alerting and media streaming using WebSockets & WebRTC.</li>
-      </ul>
-      <p><strong>Tech Stack:</strong> <code>React.js</code>, <code>Tailwind CSS</code>, <code>Node.js</code>, <code>Express.js</code>, <code>PostgreSQL</code>, <code>WebSocket</code>, <code>WebRTC</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚚 SmartDeliver</h3>
-      <p align="center"><em>Full-Stack On-Demand Delivery & Logistics Platform</em></p>
-      <p>Comprehensive delivery ecosystem with real-time driver tracking, automated background dispatching, payment integration, and AI-assisted workflows.</p>
-      <ul>
-        <li>Live location tracking via <code>Socket.io</code>.</li>
-        <li>Background job processing & queues with <code>BullMQ</code> and <code>Redis</code>.</li>
-        <li>Chapa payment gateway, Cloudinary CDN, and Google Gemini AI integration.</li>
-      </ul>
-      <p><strong>Tech Stack:</strong> <code>Node.js</code>, <code>Express.js</code>, <code>Prisma</code>, <code>Supabase PostgreSQL</code>, <code>Redis</code>, <code>BullMQ</code>, <code>Socket.io</code>, <code>Vite</code>, <code>Tailwind CSS</code>, <code>Gemini AI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">💊 Medhanit</h3>
-      <p align="center"><em>Pharmacy Inventory & Supply Chain Management System</em></p>
-      <p>Production-grade pharmacy management application designed to eliminate stock-outs and track medication lifecycles.</p>
-      <ul>
-        <li>Role-based access control (RBAC) for pharmacists, admins, and inventory managers.</li>
-        <li>Real-time stock level monitoring, batch and expiration date tracking.</li>
-        <li>Automated low-stock notifications and analytics.</li>
-      </ul>
-      <p><strong>Tech Stack:</strong> <code>React</code>, <code>Node.js</code>, <code>Express.js</code>, <code>MongoDB</code>, <code>Tailwind CSS</code></p>
-    </td>
-  </tr>
-</table>
+- 🏆 **BahirLink** — *Unified Emergency & Public Service System* `🥇 1st Place Award Winner`  
+  > Mission-critical civic platform connecting citizens to emergency responders with real-time alerting, database architecture, and live communication.  
+  > **Stack:** `React.js` • `Tailwind CSS` • `Node.js` • `Express.js` • `PostgreSQL` • `WebSockets` • `WebRTC`
+
+- 🚚 **SmartDeliver** — *On-Demand Delivery & Logistics Platform*  
+  > Full-stack delivery platform with live courier tracking (`Socket.io`), background worker queues (`BullMQ`, `Redis`), Chapa payment gateway, and Gemini AI.  
+  > **Stack:** `Node.js` • `Express.js` • `Prisma` • `PostgreSQL` • `Redis` • `BullMQ` • `Socket.io` • `Gemini AI`
+
+- 💊 **Medhanit** — *Pharmacy Inventory Management System*  
+  > Role-based inventory suite with real-time stock tracking, batch & expiry monitoring, and automated low-stock alerts.  
+  > **Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
 
 ---
 
 ### 💼 Experience
 
-- 🏢 **Self-Directed Specialization — Odoo ERP Development** *(Aug 2026 – Present)*
-  - Researching and implementing Odoo module architecture, ORM, custom business models, and automated workflows.
-- 💻 **Full-Stack Developer Intern (Remote) — Progree**
-  - Engineered end-to-end full-stack features and optimized complex PostgreSQL queries for high client-server throughput.
-- 🌐 **Full-Stack Web Development Intern (Remote) — Elevvo Pathways** *(Jul 2026 – Aug 2026)*
-  - Delivered production web features in a fast-paced remote program with strong emphasis on code quality and prompt delivery.
-- ⚙️ **Web Developer Intern — Ethio-Afric Tech Solutions** *(Apr 2025 – Aug 2025)*
-  - Built responsive React.js user interfaces, integrated RESTful APIs with MongoDB and PostgreSQL, and worked closely with senior engineers.
+- 🏢 **Odoo ERP Developer** *(Self-Directed, Aug 2026–Present)* — Module design, ORM, custom business models & workflow automation.
+- 💻 **Full-Stack Developer Intern** — *Progree* — PostgreSQL query optimization and end-to-end client-server features.
+- 🌐 **Full-Stack Web Intern** — *Elevvo Pathways* *(Jul–Aug 2026)* — High-quality agile delivery for full-stack tasks.
+- ⚙️ **Web Developer Intern** — *Ethio-Afric Tech Solutions* *(Apr–Aug 2025)* — Responsive React UIs and RESTful APIs with MongoDB & PostgreSQL.
 
 ---
 
@@ -116,24 +77,14 @@ Experienced in taking software products from initial concept to deployment — a
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
 <p align="left">
-  <b>ERP & Business Solutions:</b><br/>
-  <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP" />
-</p>
-
-<p align="left">
-  <b>Databases & Caching:</b><br/>
+  <b>Databases & Cloud:</b><br/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-<p align="left">
-  <b>Cloud & DevOps:</b><br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -142,8 +93,9 @@ Experienced in taking software products from initial concept to deployment — a
 </p>
 
 <p align="left">
-  <b>Tools, CI/CD & AI:</b><br/>
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <b>ERP, AI & Tools:</b><br/>
+  <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -152,11 +104,11 @@ Experienced in taking software products from initial concept to deployment — a
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biniambeza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Biniam's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniambeza&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=biniambeza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Biniam's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniambeza&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
