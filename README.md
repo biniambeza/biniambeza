@@ -104,15 +104,28 @@ Computer Engineering graduate passionate about turning ideas into scalable, high
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=biniambeza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Biniam's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniambeza&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Total_Commits-1.1k+-0E75B6?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/github/stars/biniambeza?style=for-the-badge&color=0E75B6" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/biniambeza?label=Followers&style=for-the-badge&color=0E75B6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=biniambeza&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniambeza&theme=tokyonight" alt="biniambeza streak stats" />
+  <a href="https://github.com/biniambeza">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniambeza&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/biniambeza">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=biniambeza&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&hide=prs,issues" alt="Biniam's GitHub Stats" />
+  </a>
+  <a href="https://github.com/biniambeza">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniambeza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Top Languages" />
+  </a>
 </p>
 
 ---
