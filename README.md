@@ -13,10 +13,6 @@
   <a href="https://github.com/biniambeza"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <img width="850" src="./github-snake.svg" alt="snake"/>
-</p>
-
 ---
 
 ### ⚡ Quick Bio
