@@ -117,9 +117,6 @@ Computer Engineering graduate passionate about turning ideas into scalable, high
 
 <p align="center">
   <a href="https://github.com/biniambeza">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=biniambeza&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&hide=prs,issues" alt="Biniam's GitHub Stats" />
-  </a>
-  <a href="https://github.com/biniambeza">
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniambeza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Top Languages" />
   </a>
 </p>
